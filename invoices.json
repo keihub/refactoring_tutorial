@@ -1,0 +1,19 @@
+[
+  {
+    "customer": "BigCo",
+    "performances": [
+      {
+        "playID": "nakamura",
+        "audience": 55
+      },
+      {
+        "playID": "yamada",
+        "audience": 30
+      },
+      {
+        "playID": "hiraishi",
+        "audience": 40
+      }
+    ]
+  }
+]

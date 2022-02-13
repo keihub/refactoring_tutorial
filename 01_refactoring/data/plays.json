@@ -1,0 +1,14 @@
+{
+  "nakamura": {
+    "name": "Nakamura",
+    "type": "targedy"
+  },
+  "yamada": {
+    "name": "Yamada",
+    "type": "comedy"
+  },
+  "hiraishi": {
+    "name": "Hiraishi",
+    "type": "targedy"
+  }
+}
